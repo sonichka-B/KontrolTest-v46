@@ -1,5 +1,5 @@
 abstract class OrderProcessorTemplate {
-    final process(){
+    final void process(){
 
     }
 }
